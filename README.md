@@ -30,8 +30,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 ---
 
 ## 📈 **Stats and Contributions**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ytext&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?Ytext&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudoYtext&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoYtext&layout=compact&theme=radical)
 
 ---
 
