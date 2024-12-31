@@ -39,7 +39,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoytext&layout=compact&theme=radical)
 
 ## 🤝 **Connect With Me**
-- **Discord**: Add me on Discord to chat about programming, games, or tech!
+- **Discord**: Add me on Discord to chat about programming, games, or tech! username:ytext
+- **Server**: https://discord.gg/AEKte77kub
 - **GitHub**: Feel free to explore my projects and contribute.
 
 ---
