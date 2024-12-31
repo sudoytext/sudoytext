@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here's a bit about me:
   - Main: **Arch Linux** (Kernel Version 7.13.8)  
   - Others: Arch Ubuntu, Windows 10 Pro
 
-- **Hobbies**:  
+- **|Hobbies**:  
   - Building **cool Discord bots**.  
   - Experimenting with **custom Minecraft clients**.  
   - Learning and implementing **website UI/UX design**.
