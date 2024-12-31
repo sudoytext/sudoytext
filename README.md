@@ -44,4 +44,4 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ---
 
-### ⭐ Thanks for visiting my profile! If you find my work interesting, consider giving it a star!
+### ⭐ Thx for visiting my Projects, consider giving it a star!
