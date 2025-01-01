@@ -23,7 +23,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 - **Operating Systems**:  
   - Main: **Arch Linux** (Kernel Version 7.13.8)  
-  - Others: Arch Ubuntu, Windows 10 Pro
+  - Others:Ubuntu, Windows 10 Pro
 
 - **|Hobbies**:  
   - Building **cool Discord bots**.  
