@@ -1,13 +1,12 @@
-# 👋 Hi, I'm **Ytext**
+# !They Call me **Ytext**✅
 
-Welcome to my GitHub profile! Here's a bit about me:
-
+Here's a bit about me:
 ---
 
 ## 🧑‍💻 **About Me**
 - **Name**: Ytext
 - **Age**: 17
-- **Interests**: Web Programming, Software Engineering, UI/UX Design
+- **Interests**: Web Programming,Software Programming, UI/UX Design
 - **Favorite Game**: Minecraft (v1.12)
 
 ---
