@@ -1,4 +1,4 @@
-# !They Call me **Ytext**✅
+# They Call me **Ytext**✅
 
 Here's a bit about me:
 ---
