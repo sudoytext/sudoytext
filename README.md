@@ -20,12 +20,11 @@
 
 - **Operating Systems**:  
   - Main: **Arch Linux** (Kernel Version 7.13.8)  
-  - Others: Ubuntu, Windows 10 Pro
+  - Others: Alma linxu v9, Windows 10 Pro
 
 - **|Hobbies**:  
   - Building **cool Discord bots**.  
   - Experimenting with **custom Minecraft clients**.  
-  - Learning and implementing **website UI/UX design**.
 
 ---
 
