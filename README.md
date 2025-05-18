@@ -3,7 +3,7 @@
 
 ## **About Me**
 - **Name**: Ytext
-- **Age**: 17
+- **Age**: 18
 - **Favorite Game**: Minecraft (v1.12)
 
 ---
