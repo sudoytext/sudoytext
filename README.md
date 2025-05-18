@@ -1,15 +1,14 @@
 # They Call me **Ytext**✅
 ---
 
-## 🧑‍💻 **About Me**
+## **About Me**
 - **Name**: Ytext
 - **Age**: 17
-- **Interests**: Web Programming,Software Programming, UI/UX Design
 - **Favorite Game**: Minecraft (v1.12)
 
 ---
 
-## 🛠️ **Skills and Technologies**
+## 🛠**Skills and Technologies**
 - **Programming Languages**:  
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
@@ -20,11 +19,10 @@
 
 - **Operating Systems**:  
   - Main: **Arch Linux** (Kernel Version 7.13.8)  
-  - Others: Alma linxu v9, Windows 10 Pro
+  - Others: Alma linux v9, Windows 10 Pro
 
 - **|Hobbies**:  
-  - Building **cool Discord bots**.  
-  - Experimenting with **custom Minecraft clients**.  
+  - Nothing much currently Trying to make delta force run on linux :/.  
 
 ---
 
