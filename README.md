@@ -4,7 +4,6 @@
 ## **About Me**
 - **Name**: Ytext
 - **Age**: 18
-- **Favorite Game**: Minecraft (v1.12)
 
 ---
 
@@ -19,9 +18,6 @@
 - **Operating Systems**:  
   - Main: **Arch Linux** (Kernel Version 7.13.8)  
   - Others: Alma linux v9, Windows 10 Pro
-
-- **|Hobbies**:  
-  - Nothing much currently Trying to make delta force run on linux :/.  
 
 ---
 
