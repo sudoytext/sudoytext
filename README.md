@@ -4,9 +4,9 @@
 
 ## **About Me**
 
-* ** Name **: Ytext
-Age: 18
-VDS Engineer at **Dataflaire**
+* **Name**: Ytext
+* **Age**: 18
+* **Role**: VDS Engineer at **Dataflaire**
 
 ---
 
@@ -26,10 +26,8 @@ VDS Engineer at **Dataflaire**
 
 ## Stats
 
-
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sudoytext\&show_icons=true\&theme=radical)
 
 ### **Top Languages**
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sudoytext\&layout=compact\&theme=radical)
-
