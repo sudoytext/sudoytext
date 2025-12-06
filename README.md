@@ -4,7 +4,7 @@
 
 ## **About Me**
 
-Name: Ytext
+* ** Name **: Ytext
 Age: 18
 VDS Engineer at **Dataflaire**
 
