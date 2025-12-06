@@ -1,12 +1,11 @@
 # They Call me **Ytext**
 
----
 
 ## **About Me**
 
-* **Name**: Ytext
-* **Age**: 18
-* **Role**: VDS Engineer at **Dataflaire**
+Name: Ytext
+Age: 18
+VDS Engineer at **Dataflaire**
 
 ---
 
@@ -25,10 +24,12 @@
 
 ---
 
-## **Stats and Contributions**
+## **Stats**
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudoYtext\&show_icons=true\&theme=radical)
 
 ### **Top Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoytext\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoYtext\&layout=compact\&theme=radical)
+
