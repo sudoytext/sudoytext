@@ -22,8 +22,8 @@
 
 * **Operating Systems**:
 
-  * Main: **Arch Linux** (Kernel Version 7.13.8)
-  * Others: Alma Linux v9, Windows 10 Pro
+  * Main: **Gentoo** (Kernel Version 7.13.8)
+  * Others: Alma Linux v9, Proxmox VE , Ubuntu 24.4
 
 ---
 
